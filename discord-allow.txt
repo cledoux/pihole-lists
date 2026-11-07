@@ -1,0 +1,22 @@
+! Discord allowlist
+@@||discord.com^
+@@||discord.gg^
+@@||discord.media^
+@@||discord.gift^
+@@||discord.gifts^
+@@||discord.new^
+@@||discord.co^
+@@||discord.dev^
+@@||discord.design^
+@@||discord.store^
+@@||discord.tools^
+@@||discordapp.com^
+@@||discordapp.net^
+@@||discordapp.io^
+@@||discordcdn.com^
+@@||discordsays.com^
+@@||discordstatus.com^
+@@||discord-activities.com^
+@@||discordactivities.com^
+@@||discordmerch.com^
+@@||discordian.social^
