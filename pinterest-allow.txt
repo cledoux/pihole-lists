@@ -1,0 +1,4 @@
+! Pinterest allowlist
+@@||pinterest.com^
+@@||pinimg.com^
+@@||pin.it^
